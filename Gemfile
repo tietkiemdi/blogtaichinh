@@ -6,4 +6,4 @@ git_source(:github) {|tietkiemdi.github.io| "https://github.com/#{tietkiemdi.git
 
 # gem "rails"
 
-gem 'github-pages'
+gem 'gh-pages'
