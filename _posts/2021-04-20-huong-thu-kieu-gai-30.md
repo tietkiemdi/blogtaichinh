@@ -1,5 +1,6 @@
 ---
 title:  Hưởng thụ kiểu gái U30: Độc thân, thoải mái ăn tối nhà hàng, đi du lịch cuối tuần, "chưa hết tháng đã hết tiền" dù lương 35 triệu
+tags:
   - Friday Theme
   - HTML
   - images
@@ -7,7 +8,6 @@ title:  Hưởng thụ kiểu gái U30: Độc thân, thoải mái ăn tối nh�
   - Liquid
   - Carousel
   - Image Gallery
-images:
 ---
 
 Lối suy nghĩ sống chỉ vì bản thân, tiêu xài hoang phí vì có tiết kiệm cũng chẳng mua nổi nhà hay nghỉ hưu đang lan rộng tại châu Á.
