@@ -1,5 +1,5 @@
 ---
-title:  Hưởng thụ kiểu gái U30: Độc thân, thoải mái ăn tối nhà hàng, đi du lịch cuối tuần, "chưa hết tháng đã hết tiền" dù lương 35 triệu
+title:  Hưởng thụ kiểu gái U30. Độc thân, thoải mái ăn tối nhà hàng, đi du lịch cuối tuần, chưa hết tháng đã hết tiền dù lương 35 triệu
 tags:
   - Friday Theme
   - HTML
