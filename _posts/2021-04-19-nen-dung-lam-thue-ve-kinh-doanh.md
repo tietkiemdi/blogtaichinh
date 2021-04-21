@@ -1,13 +1,8 @@
 ---
 title:  Nếu có 4 dấu hiệu sau đây, hãy nghỉ việc làm thuê ngay và luôn, bạn tự đi kinh doanh hay mở công ty sẽ thành công hơn gấp 1000 lần
 tags:
-  - Friday Theme
-  - HTML
-  - images
-  - Markdown
-  - Liquid
-  - Carousel
-  - Image Gallery
+  - Kinh doanh
+  - Lời khuyên
 images:
   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80

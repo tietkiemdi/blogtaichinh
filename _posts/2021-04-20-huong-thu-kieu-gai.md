@@ -1,13 +1,8 @@
 ---
 title:  Hưởng thụ kiểu gái U30. Độc thân, thoải mái ăn tối nhà hàng, đi du lịch cuối tuần, chưa hết tháng đã hết tiền dù lương 35 triệu
 tags:
-  - Friday Theme
-  - HTML
-  - images
-  - Markdown
-  - Liquid
-  - Carousel
-  - Image Gallery
+  - Chi tiêu
+  - Sai lầm
 images:
   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80
