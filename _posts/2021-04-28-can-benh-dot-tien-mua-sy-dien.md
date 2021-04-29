@@ -6,10 +6,9 @@ tags:
   - Phong cách chi tiêu
   - Sai lầm
 
-author:   'Fletcher T. Penney'
+metades: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản tiết kiệm 0 đồng: Căn bệnh đốt tiền mua sĩ diện ảo khiến không ít người trẻ bê bết'
 
-description: 'sẵn sàng mua túi'
-
+metaauthor: 'nguyennhu'
 ---
 
 Bỏ tiền mua đồ đắt đỏ cốt chỉ để khoe mẽ với người khác có đáng không nếu lương tháng chỉ vài triệu đồng?
