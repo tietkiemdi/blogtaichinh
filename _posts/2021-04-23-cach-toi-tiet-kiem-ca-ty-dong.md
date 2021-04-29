@@ -60,4 +60,4 @@ Bước 5: Tăng thu nhập
 
 Đối với tôi, tôi học thạc sĩ và làm thêm. Tôi kiếm thêm được hàng nghìn USD mỗi năm từ làm thêm. Đồng thời, việc có bằng thạc sĩ sẽ cho tôi cơ hội kiếm được công việc trả lương cao hơn.
 
-Tham khảo tại [đây]({% https://cafef.vn/5-buoc-giup-toi-tiet-kiem-duoc-ca-ty-dong-nam-25-tuoi-20210427142034384.chn %})
+Tham khảo tại [đây](https://cafef.vn/5-buoc-giup-toi-tiet-kiem-duoc-ca-ty-dong-nam-25-tuoi-20210427142034384.chn)
