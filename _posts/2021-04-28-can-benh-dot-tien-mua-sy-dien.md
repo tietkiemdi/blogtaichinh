@@ -6,12 +6,9 @@ tags:
   - Phong cách chi tiêu
   - Sai lầm
 
-author:   Fletcher T. Penney  
-date:     February 9, 2011  
-comment:  This is a comment intended to demonstrate  
-          metadata that spans multiple lines, yet  
-          is treated as a single value.  
-description: sẵn sàng mua túi
+author:   'Fletcher T. Penney'
+
+description: 'sẵn sàng mua túi'
 
 ---
 
