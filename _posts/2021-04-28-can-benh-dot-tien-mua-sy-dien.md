@@ -2,9 +2,9 @@
 title:  'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản tiết kiệm 0 đồng: Căn bệnh đốt tiền mua sĩ diện ảo khiến không ít người trẻ bê bết'
 
 tags:
-  - Tiết kiệm
-  - Phong cách chi tiêu
-  - Sai lầm
+  - Tiet kiem
+  - Phong cach chi tieu
+  - Sai lam
 
 description: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản tiết kiệm 0 đồng: Căn bệnh đốt tiền mua sĩ diện ảo khiến không ít người trẻ bê bết'
 
