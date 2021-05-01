@@ -22,7 +22,7 @@ Mọi người chỉ có thể sử dụng những thứ đắt đỏ để ch�
 ## -01-
 
 <div class="card mb-3">
-    <img class="card-img-top" src="/28042.png"/>
+    <img class="card-img-top" src="http://www.something.com/path/to/image1.jpg"/>
     <div class="card-body bg-light">
         <div class="card-text">
             The Peak District on a mosty morning.
