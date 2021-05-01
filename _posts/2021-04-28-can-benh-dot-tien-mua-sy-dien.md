@@ -23,6 +23,15 @@ Mọi người chỉ có thể sử dụng những thứ đắt đỏ để ch�
 
 ## -01-
 
+<div class="card mb-3">
+    <img class="card-img-top" src="https://drscdn.500px.org/photo/127767019/q%3D80_m%3D1500/v2?webp=true&sig=dd1fa4580c459472969cd4992068922f311f12cf263cf08b39615cfc1812286b"/>
+    <div class="card-body bg-light">
+        <div class="card-text">
+            The Peak District on a mosty morning.
+        </div>
+    </div>
+</div>
+
 Mọi người phàn nàn rằng: Những cuộc vui chơi với bạn bè ngày càng trở nên buồn tẻ vì gặp nhau không phải để hỏi thăm mà là để chụp hình sống ảo và khoe mẽ. Điều kiện đầu tiên để chọn quán luôn là "view đẹp để chụp hình".
 
 Bạn học cũ của tôi chụp ảnh nhóm, lúc nào cũng vô tình để lộ dây chuyền vàng, đồng hồ và nhẫn đắt tiền. Có thể thấy việc thể hiện rằng mình "có thể sống tốt hơn trong nhóm bạn bè" đã trở thành tiêu chí mua sắm của nhiều người vì bản tính con người vốn không muốn bản thân thua thiệt so với bất kì ai. Chỉ cẩn chăm chút bản thân một tí sẽ khiến người khác ghen tị, như vậy họ đã mãn nguyện rồi, còn cuộc sống thực tế chỉ mình bản thân mình biết thôi, có ai biết nữa đâu mà sợ.
