@@ -10,7 +10,7 @@ description: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản 
 
 author: 'nguyennhu'
 ---
-
+![ảnh pexel](./theme/img/28041.jpg){:class=""}
 **Bỏ tiền mua đồ đắt đỏ cốt chỉ để khoe mẽ với người khác có đáng không nếu lương tháng chỉ vài triệu đồng?**
 
 <!-- h1 -->
