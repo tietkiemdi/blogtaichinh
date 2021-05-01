@@ -6,12 +6,12 @@ tags:
   - Phong cách chi tiêu
   - Sai lầm
 
-metades: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản tiết kiệm 0 đồng: Căn bệnh đốt tiền mua sĩ diện ảo khiến không ít người trẻ bê bết'
+description: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản tiết kiệm 0 đồng: Căn bệnh đốt tiền mua sĩ diện ảo khiến không ít người trẻ bê bết'
 
-metaauthor: 'nguyennhu'
+author: 'nguyennhu'
 ---
 
-Bỏ tiền mua đồ đắt đỏ cốt chỉ để khoe mẽ với người khác có đáng không nếu lương tháng chỉ vài triệu đồng?
+# Bỏ tiền mua đồ đắt đỏ cốt chỉ để khoe mẽ với người khác có đáng không nếu lương tháng chỉ vài triệu đồng?
 
 <!-- h1 -->
 
@@ -19,7 +19,7 @@ Bỏ tiền mua đồ đắt đỏ cốt chỉ để khoe mẽ với người kh
 
 Mọi người chỉ có thể sử dụng những thứ đắt đỏ để chứng minh cho người khác thấy giá trị của bản thân mình. Nhưng lòng tham của con người là không đáy, mua được thứ này họ lại muốn nhiều thứ khác và không có điểm dừng. Bạn cũng nên hiểu rằng luôn có những người có đồ đắt hơn bạn nên hãy cân nhắc trước khi đua đòi theo họ. Khi bạn mua một chiếc túi LV thì điều này chứng minh rằng bạn cũng có thể sống một cuộc sống tốt, nhưng không có nghĩa là bạn là người có mức sống cao và sành điệu nhất.
 
--01-
+## -01-
 
 Mọi người phàn nàn rằng: Những cuộc vui chơi với bạn bè ngày càng trở nên buồn tẻ vì gặp nhau không phải để hỏi thăm mà là để chụp hình sống ảo và khoe mẽ. Điều kiện đầu tiên để chọn quán luôn là "view đẹp để chụp hình".
 
@@ -61,4 +61,4 @@ Tại thời điểm này, để phản ánh trình độ cao thực sự của 
 
 Có thể cuộc sống của bạn được thiết lập bởi mong muốn và kì vọng của người khác nhưng hãy suy xét và quyết định, bởi chỉ có bạn mới quyết định đẳng cấp của chính mình
 
-https://cafef.vn/san-sang-mua-chiec-tui-vai-ngan-do-nhung-tai-khoan-tiet-kiem-0-dong-can-benh-dot-tien-mua-si-dien-ao-khien-khong-it-nguoi-tre-be-bet-2021042814191039.chn
+tham khảo tại [đây](https://cafef.vn/san-sang-mua-chiec-tui-vai-ngan-do-nhung-tai-khoan-tiet-kiem-0-dong-can-benh-dot-tien-mua-si-dien-ao-khien-khong-it-nguoi-tre-be-bet-2021042814191039.chn)
