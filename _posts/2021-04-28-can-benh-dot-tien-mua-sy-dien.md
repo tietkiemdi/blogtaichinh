@@ -11,7 +11,7 @@ description: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản 
 author: 'nguyennhu'
 ---
 <div class="card mb-3">
-    <img class="card-img-top" src="./theme/img/28041.jpg"/>
+    <img class="card-img-top" src="./theme/img/28041.JPG"/>
     <div class="card-body bg-light">
         <div class="card-text">
             The Peak District on a mosty morning.
