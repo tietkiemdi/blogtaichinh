@@ -10,7 +10,14 @@ description: 'Sẵn sàng mua chiếc túi vài ngàn đô, nhưng tài khoản 
 
 author: 'nguyennhu'
 ---
-![ảnh pexel](./theme/img/28041.jpg)
+<div class="card mb-3">
+    <img class="card-img-top" src="./theme/img/28041.jpg"/>
+    <div class="card-body bg-light">
+        <div class="card-text">
+            The Peak District on a mosty morning.
+        </div>
+    </div>
+</div>
 **Bỏ tiền mua đồ đắt đỏ cốt chỉ để khoe mẽ với người khác có đáng không nếu lương tháng chỉ vài triệu đồng?**
 
 <!-- h1 -->
