@@ -19,16 +19,16 @@ author: 'nguyennhu'
 
 Mọi người chỉ có thể sử dụng những thứ đắt đỏ để chứng minh cho người khác thấy giá trị của bản thân mình. Nhưng lòng tham của con người là không đáy, mua được thứ này họ lại muốn nhiều thứ khác và không có điểm dừng. Bạn cũng nên hiểu rằng luôn có những người có đồ đắt hơn bạn nên hãy cân nhắc trước khi đua đòi theo họ. Khi bạn mua một chiếc túi LV thì điều này chứng minh rằng bạn cũng có thể sống một cuộc sống tốt, nhưng không có nghĩa là bạn là người có mức sống cao và sành điệu nhất.
 
-## -01-
-
 <div class="card mb-3">
-    <img class="card-img-top" src="{{ site.baseurl }}/theme/img/28042.png" />
+    <img class="card-img-top" src="{{ site.baseurl }}/theme/img/28043.jpg" />
     <div class="card-body bg-light">
         <div class="card-text">
-            ảnh đẹp.
+            Ảnh từ pexel.
         </div>
     </div>
 </div>
+
+## -01-
 
 Mọi người phàn nàn rằng: Những cuộc vui chơi với bạn bè ngày càng trở nên buồn tẻ vì gặp nhau không phải để hỏi thăm mà là để chụp hình sống ảo và khoe mẽ. Điều kiện đầu tiên để chọn quán luôn là "view đẹp để chụp hình".
 
@@ -71,6 +71,10 @@ Cuối cùng, để giảm bớt lo lắng và bịt miệng lũ bạn hay soi m
 Có một bài báo đã viết: Toàn xã hội đã trở nên tốt đẹp hơn, và ý nghĩa hơn nhưng mọi người ngày càng có thể cảm thấy những thiếu sót của chính họ. Hầu hết mọi người bình thường không tham gia với tư cách là người tham gia, mà là sự chấp nhận thụ động. Cách tốt nhất để giải quyết vấn đề này là cải thiện tính thẩm mỹ của bạn và không đánh mất bản thân theo cái miệng của người khác.
 
 Tại thời điểm này, để phản ánh trình độ cao thực sự của một người là thấy trình độ thẩm mỹ cao của anh ta, đòi hỏi sự tích lũy lâu dài về kiến ​​thức và kinh nghiệm, những điều này không thể có được bằng tiền.
+
+<div class="card mb-3">
+    <img class="card-img-top" src="{{ site.baseurl }}/theme/img/28044.jpg" />
+</div>
 
 **Có thể cuộc sống của bạn được thiết lập bởi mong muốn và kì vọng của người khác nhưng hãy suy xét và quyết định, bởi chỉ có bạn mới quyết định đẳng cấp của chính mình**
 
