@@ -6,9 +6,11 @@ tags:
   - Phong cách chi tiêu
   - Sai lầm
 
+description: 'Có người cho bạn vay tiền không lấy lãi, bạn quyết định ứng bao nhiêu? Câu trả lời chỉ ra tư duy khác biệt về tiền bạc của người giàu, kẻ nghèo'
+author: 'nguyennhu'
 ---
 
-Nếu bạn muốn trở nên giàu có, bạn phải chấp nhận từ bỏ lối suy nghĩ cũ và hành động theo cách khác.
+**Nếu bạn muốn trở nên giàu có, bạn phải chấp nhận từ bỏ lối suy nghĩ cũ và hành động theo cách khác.**
 
 <!-- h1 -->
 
@@ -22,7 +24,7 @@ Những người yêu thích cuốn sách The Millionaire Next Door hầu n
 
 Robert đã giải thích rằng: lời khuyên tài chính mà bạn tìm kiếm phụ thuộc vào con người bạn. Nếu bạn nghèo, bạn hãy lắng nghe Suze Orman. Nếu bạn thuộc tầng lớp trung lưu, hãy nghe Dave Ramsey. Nhưng người giàu lại nghĩ khác. Họ không nhận lời khuyên từ Suze hoặc Dave.
 
-Suy nghĩ của người giàu về tiền
+## Suy nghĩ của người giàu về tiền
 
 Đây là hai ví dụ minh họa cách người giàu suy nghĩ về tiền bạc. Lời khuyên của Dave Ramsey là “sống không mắc nợ”. Đối với Ramsey, nợ nần là một điều tồi tệ. Nhưng Robert lại có suy nghĩ khác và ông không hề ghét nợ nần. Robert coi các khoản nợ như một khoản vay hay thậm chí là “tài sản”. Vào năm 2015, ông đã tái cấp vốn cho khoản vay 300 triệu đô la từ 5% xuống 2,5%.
 
@@ -38,7 +40,7 @@ Người giàu hành động theo cách họ muốn và đạt được những
 
 Nếu câu trả lời không phải là “càng nhiều càng tốt” và “càng chậm càng tốt” thì rất có thể bạn đang bị mắc kẹt trong suy nghĩ của tầng lớp trung lưu hoặc nghèo. Người giàu muốn có càng nhiều tiền càng tốt và muốn trả các khoản vay lãi suất thấp càng chậm càng tốt. Bởi vì họ không coi tiền là một thứ gì đó nguy hiểm.
 
-Người giàu xây dựng đội ngũ có thực lực xung quanh mình
+## Người giàu xây dựng đội ngũ có thực lực xung quanh mình
 
 Ngoài suy nghĩ khác biệt về tiền bạc, người giàu còn xây dựng đội ngũ giỏi xung quanh mình. Điều này đã tạo ra sự thay đổi lớn về tài chính của tôi. Tôi đã mất hơn một thập kỷ để xây dựng nhóm của mình bởi vì tôi không chỉ muốn một người lập kế hoạch tài chính. Tôi gọi nhóm của mình là Accredited Network và gọi đùa họ là Money Nerds. Còn Robert gọi nhóm của ông ấy là Rich Dad Advisors.
 
@@ -46,7 +48,7 @@ Có một trở ngại tương đối lớn trong việc xây dựng nhóm la
 
 Robert đã có một kết luận rất hay rằng: “Những người ngu ngốc nhất là những người nghĩ rằng họ thông minh.” Tôi nhận ra rằng mình không thông minh bằng các thành viên trong nhóm đối với lĩnh vực cụ thể của họ. Tôi hoàn toàn có thể đầu tư thời gian để tìm hiểu về lĩnh vực của các thành viên trong nhóm. Nhưng đó không phải là cách tôi muốn đầu tư thời gian của mình. Tôi muốn đưa họ vào nhóm của mình và tận dụng những điểm mạnh độc đáo mà họ sở hữu.
 
-Tại sao người giàu vẫn mãi giàu?
+## Tại sao người giàu vẫn mãi giàu?
 
 Điều khiến những người giàu trở nên giàu có hơn là họ không sợ tiền. Thay vào đó, họ học cách trở thành những nhà đầu tư tốt hơn và có một đội ngũ giỏi để họ có thời gian làm những việc họ giỏi nhất. Người nghèo và tầng lớp trung lưu chạy theo số đông và tin tưởng vào những lời khuyên tài chính “linh thiêng” như cắt giảm chi tiêu, tiết kiệm tiền, tin tưởng vào thị trường chứng khoán và cố gắng sống không mắc nợ.
 
@@ -56,4 +58,4 @@ Cá nhân tôi không muốn trở thành “triệu phú nhà bên”- The mil
 
 Theo tác giả Garrett Gunderson - doanh nhân, chuyên gia tài chính chia sẻ tại Forbes
 
-https://cafef.vn/co-nguoi-cho-ban-vay-tien-khong-lay-lai-ban-quyet-dinh-ung-bao-nhieu-cau-tra-loi-chi-ra-tu-duy-khac-biet-ve-tien-bac-cua-nguoi-giau-ke-ngheo-20210420143905252.chn
+tham khảo tại [đây](https://cafef.vn/co-nguoi-cho-ban-vay-tien-khong-lay-lai-ban-quyet-dinh-ung-bao-nhieu-cau-tra-loi-chi-ra-tu-duy-khac-biet-ve-tien-bac-cua-nguoi-giau-ke-ngheo-20210420143905252.chn)

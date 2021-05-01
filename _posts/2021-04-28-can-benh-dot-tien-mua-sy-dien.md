@@ -25,7 +25,7 @@ Mọi người chỉ có thể sử dụng những thứ đắt đỏ để ch�
     <img class="card-img-top" src="{{ site.baseurl }}/theme/img/28042.png" />
     <div class="card-body bg-light">
         <div class="card-text">
-            The Peak District on a mosty morning.
+            ảnh đẹp.
         </div>
     </div>
 </div>

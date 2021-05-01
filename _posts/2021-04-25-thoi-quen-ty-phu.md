@@ -6,9 +6,11 @@ tags:
   - Phong cách chi tiêu
   - Sai lầm
 
+description: 'Quy trình buổi sáng tỷ đô”: Thói quen giúp tôi tạo nên sự khác biệt lớn về tài chính và kiếm thêm được 3.000 đô la'
+author: 'nguyennhu'
 ---
 
-Vài năm trước, một video có tên là “Quy trình buổi sáng tỷ đô” đã được lan truyền rộng rãi trên Youtube. Video được thực hiện dưới sự hợp tác của Jim Kwik, nhà sáng lập công ty huấn luyện não bộ Kwik Learning và một doanh nhân người Mỹ. Nội dung của video đề cập đến thói quen của một số người thành công nhất trên thế giới, hay còn gọi là tỷ phú.
+**Vài năm trước, một video có tên là “Quy trình buổi sáng tỷ đô” đã được lan truyền rộng rãi trên Youtube. Video được thực hiện dưới sự hợp tác của Jim Kwik, nhà sáng lập công ty huấn luyện não bộ Kwik Learning và một doanh nhân người Mỹ. Nội dung của video đề cập đến thói quen của một số người thành công nhất trên thế giới, hay còn gọi là tỷ phú.**
 
 <!-- h1 -->
 
@@ -16,7 +18,7 @@ Vài năm trước, một video có tên là “Quy trình buổi sáng tỷ đ�
 
 Tôi không có ấn tượng trong lần đầu xem video vì nội dung của nó trái ngược hoàn toàn với suy nghĩ của tôi. Nhưng như họ nói, sự tò mò được tạo ra bởi sự nghi ngờ và tìm hiểu, vì vậy tôi quyết định sẽ thử thói quen này trong vài tuần. Và tôi rất ngạc nhiên về kết quả nhận được.
 
-Trước tiên, hãy để tôi chia nhỏ các thói quen buổi sáng cho bạn, như cách mà Jim Kwik đã thực hiện trong video:
+**Trước tiên, hãy để tôi chia nhỏ các thói quen buổi sáng cho bạn, như cách mà Jim Kwik đã thực hiện trong video:**
 
 - Dậy sớm
 
@@ -56,7 +58,7 @@ Sau khi kiên trì hoàn thành những thói quen buổi sáng này trong và
 
 Thật đáng ngạc nhiên là chỉ có một thói quen mà tôi thực sự không thấy có hiệu quả, đó là việc nhớ lại những giấc mơ của tôi. Theo Jim, ý tưởng đằng sau việc nhớ lại những giấc mơ của bạn là để giúp bạn nhận ra tiềm thức của mình đang làm gì trong ngày. Về lý thuyết thì điều này nghe có vẻ hay ho, nhưng tôi không thể nhớ lại những giấc mơ của mình hoặc chúng quá phi lý. Tôi cảm thấy như mình đang lãng phí thời gian để cố gắng gán cho chúng một ý nghĩa nào đó. Có thể một số người sẽ thành công trong việc nhớ lại những giấc mơ của họ, nhưng đối với riêng tôi thì không.
 
-Thói quen có lợi về mặt thể chất và tinh thần
+## Thói quen có lợi về mặt thể chất và tinh thần
 
 Việc đảm bảo rằng uống đủ nước vào mỗi buổi sáng và vận động cơ thể là một cách tuyệt vời để bắt đầu một ngày mới, nhưng điều thực sự đặc biệt chính là tắm nước lạnh. Thói quen buổi sáng này đã giúp tôi cảm thấy thoải mái không chỉ vào buổi sáng mà là trong suốt cả một ngày, điều mà tôi tin rằng đã giúp tôi đưa ra những quyết định sáng suốt hơn.
 
