@@ -19,12 +19,10 @@ author: 'nguyennhu'
 
 Mọi người chỉ có thể sử dụng những thứ đắt đỏ để chứng minh cho người khác thấy giá trị của bản thân mình. Nhưng lòng tham của con người là không đáy, mua được thứ này họ lại muốn nhiều thứ khác và không có điểm dừng. Bạn cũng nên hiểu rằng luôn có những người có đồ đắt hơn bạn nên hãy cân nhắc trước khi đua đòi theo họ. Khi bạn mua một chiếc túi LV thì điều này chứng minh rằng bạn cũng có thể sống một cuộc sống tốt, nhưng không có nghĩa là bạn là người có mức sống cao và sành điệu nhất.
 
-![ảnh]({{/28042.png)
-
 ## -01-
 
 <div class="card mb-3">
-    <img class="card-img-top" src="https://drscdn.500px.org/photo/127767019/q%3D80_m%3D1500/v2?webp=true&sig=dd1fa4580c459472969cd4992068922f311f12cf263cf08b39615cfc1812286b"/>
+    <img class="card-img-top" src="/28042.png"/>
     <div class="card-body bg-light">
         <div class="card-text">
             The Peak District on a mosty morning.
