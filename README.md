@@ -1,18 +1,20 @@
-# Friday Theme
+# Tietkiemdi blog
 
-## A Bootstrap 4 portfolio and blog theme for Jekyll
+## blog tài chính tốt nhất
 
-* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
-* Example 2: my own homepage, http://www.freytag.org.uk
 
-## Get Started
+## Bắt đầu
 
-Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
+Hãy bắt đầu tiết kiếm ngay hôm nay
 
-## Usage
+Kiếm thật nhiều tiền
 
-The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
+Xây dựng một khoản cho trường hợp khẩn cấp
 
-## Jekyll Version
+Dùng tiền bắt đầu đầu tư
 
-__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.
+Đầu tư nhiều hơn
+
+## Truy cập ngay
+
+ {{site.baseurl}}
