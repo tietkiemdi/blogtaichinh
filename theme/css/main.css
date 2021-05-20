@@ -33,12 +33,9 @@ header {
 }
 .mainBrand {
     font-size: 32px;
-    line-height: 80px;
     font-weight: bold;
-    display: flex;
-    justify-content: center;
     transition: all 0.4s ease, transform 0.2s ease;
-
+    padding: 24px 0;
 }
 
 nav ul {
@@ -77,6 +74,9 @@ header .mobile {
     header .mobile {
        display: none;
     }
+    header .mainBrand {
+        padding: 24px 0;
+    }
 }
 @media screen and (max-width: 768px) {
     nav {
@@ -85,15 +85,28 @@ header .mobile {
     header {
         height: 60px;
     }
+
+    header .mainBrand {
+        font-size: 24px;
+        padding: 18px 0;
 }
 @media screen and (max-width: 640px) {
     nav {
         display: none;
     }
+    header .mainBrand {
+        font-size: 24px;
+        padding: 18px 0;
+
 }
 @media screen and (max-width: 480px) {
     nav {
         display: none;
+    }
+
+    header .mainBrand {
+        font-size: 24px;
+        padding: 18px 0;
     }
 }
 
