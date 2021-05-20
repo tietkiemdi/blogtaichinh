@@ -18,33 +18,88 @@
     box-sizing: border-box;
 }
 
-nav {
-    background-color: black;
-    user-select: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+body {
+
+}
+
+header {
+    background: black;
     color:burlywood;
     height: 80px;
     width: 100%;
     padding: 0 40px;
-    z-index: 3;
-    box-sizing: border-box;
-    position: absolute;
+    display: flex;
+    justify-content: space-between;
 }
-
 .mainBrand {
     font-size: 32px;
+    line-height: 80px;
+    font-weight: bold;
     display: flex;
     justify-content: center;
-    align-items: center;
-    cursor: pointer;
+    transition: all 0.4s ease, transform 0.2s ease;
+
 }
 
-nav.menuLink {
-    display: flex;
+nav ul {
+    display: inline-flex;
+}
+header nav ul li {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 32px 8px;
+    margin-left: 20px;
+    transition: all 0.4s ease, transform 0.2s ease;
+
 }
 
+li:hover {
+    transform: translateY(-2px);
+    color: rgb(226, 192, 42);
+    box-shadow: inset 0px -10px 0px rgba(255, 255, 255, 0.5); 
+
+}
+
+.mainBrand:hover {
+    transform: translateY(-1px);
+    box-shadow: inset 0px -10px 0px rgba(255, 255, 255, 0.5); 
+    
+}
+
+
+
+header .mobile {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    header .mobile {
+       display: none;
+    }
+}
+@media screen and (max-width: 768px) {
+    nav {
+        display: none;
+    }
+    header {
+        height: 60px;
+    }
+}
+@media screen and (max-width: 640px) {
+    nav {
+        display: none;
+    }
+}
+@media screen and (max-width: 480px) {
+    nav {
+        display: none;
+    }
+}
+
+
+
+/*
 nav .menuItem {
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -63,7 +118,12 @@ nav .menuItem:hover {
     color: black;
 }
 
+@media screen and (max-width: 799px) {
+    nav {
+        height: 60px;
+        padding: 0 5px;
+    }
+} */
 
-/* Slide */
 
 
