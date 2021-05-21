@@ -18,125 +18,73 @@
     box-sizing: border-box;
 }
 
-body {
-
-}
-
-header {
-    background: black;
-    color:burlywood;
-    height: 80px;
-    width: 100%;
-    padding: 0 40px;
-    display: flex;
-    justify-content: space-between;
-}
 .mainBrand {
-    font-size: 32px;
-    font-weight: bold;
-    transition: all 0.4s ease, transform 0.2s ease;
-    padding: 24px 0;
-}
-
-nav ul {
-    display: inline-flex;
-}
-header nav ul li {
-    font-size: 16px;
+    font-weight: 600;
     text-transform: uppercase;
-    font-weight: bold;
-    padding: 32px 8px;
-    margin-left: 20px;
-    transition: all 0.4s ease, transform 0.2s ease;
+    font-size: 30px;
+}
+
+.nav-pc {
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    color: chocolate;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+
+.nav-pc ul li {
+    display: inline-flex;
+    padding: 0px 5px;
+    text-transform: uppercase;
 
 }
 
-li:hover {
-    transform: translateY(-2px);
-    color: rgb(226, 192, 42);
-    box-shadow: inset 0px -10px 0px rgba(255, 255, 255, 0.5); 
-
-}
-
-.mainBrand:hover {
-    transform: translateY(-1px);
-    box-shadow: inset 0px -10px 0px rgba(255, 255, 255, 0.5); 
-    
+.btnMenu {
+    display: none;
+    font-size: 30px;
 }
 
 
-
-header .mobile {
+input {
     display: none;
 }
 
-@media screen and (max-width: 1024px) {
-    header .mobile {
-       display: none;
-    }
-    header .mainBrand {
-        padding: 24px 0;
-    }
+.nav-pc ul li:hover {
+    color: rgb(250, 114, 239);
 }
-@media screen and (max-width: 768px) {
-    nav {
-        display: none;
-    }
-    header {
-        height: 60px;
-    }
-
-    header .mainBrand {
-        font-size: 24px;
-        padding: 18px 0;
-}
-@media screen and (max-width: 640px) {
-    nav {
-        display: none;
-    }
-    header .mainBrand {
-        font-size: 24px;
-        padding: 18px 0;
-
-}
-@media screen and (max-width: 480px) {
-    nav {
-        display: none;
-    }
-
-    header .mainBrand {
-        font-size: 24px;
-        padding: 18px 0;
-    }
+.mainBrand:hover {
+    color: sandybrown;
 }
 
 
-
-/*
-nav .menuItem {
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 16px;
-    margin-left: 20px;
-    font-weight: 600;
-    transition: all 0.4s ease, transform 0.2s ease;
-    box-shadow: inset 0px -10px 0px rgba(255, 255, 255, 0.5); 
-    padding: 2px 4px;    
-    transform: translateY(-2px);   
-}
-
-nav .menuItem:hover {
-    transform: translateY(-7px);
-    box-shadow: inset 0px -24px 0px white;
-    color: black;
-}
-
-@media screen and (max-width: 799px) {
-    nav {
-        height: 60px;
-        padding: 0 5px;
+@media only screen and (max-width: 768px) {
+    .nav-pc .nav-links {
+        position: absolute;
+        right: 0;
+        top: 100%;
+        width: 50%;
+        background-color: black;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+        opacity: 0;
+        visibility: hidden;
+    
     }
-} */
 
+    .nav-pc ul li {
+        display: block;
+        margin: 0;
+        padding: 10px 20px;
+    }
 
+    .nav-pc #nav-ck:checked ~ .nav-links{
+        opacity: 1;
+        visibility: visible;
+    }
 
+    .btnMenu {
+        display: flex;
+    }
+}
