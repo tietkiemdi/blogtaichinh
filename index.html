@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="./fontawesome-free-5.15.3-web/fontawesome-free-5.15.3-web/css/all.css">
 
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
     <style>
         .swiper-container {
@@ -60,39 +61,36 @@
 </head>
 
 <body>
-    <div class="container">
-
-        <div class="nav-pc">
-
-            <!-- Brand -->
-
-            <div class="mainBrand">
-                <a href="#">Tietkiemdi Blog</a>
-            </div>
-            <!-- nav -->
-            <input type="checkbox" id="nav-ck">
-            <label for="nav-ck" class="btnMenu">
-                <span><i class="fas fa-bars"></i></span>
-
-            </label>
-
-            <nav class="nav-links">
-                <ul>
-                    <li> <a href="#" class="menuItem">Trang chủ</a></li>
-                    <li> <a href="#" class="menuItem">Blog</a></li>
-                    <li> <a href="#" class="menuItem">Tác giả</a></li>
-                    <li> <a href="#" class="menuItem">Liên hệ</a></li>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>                        
+            </button>
+            <a class="navbar-brand" href="#">WebSiteName</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+           <li class="active"><a href="#">Home</a></li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Page 1-1</a></li>
+                  <li><a href="#">Page 1-2</a></li>
+                  <li><a href="#">Page 1-3</a></li>
                 </ul>
-
-            </nav>
-
-
-            <!-- mobile -->
-
-
+              </li>
+              <li><a href="#">Page 2</a></li>
+              <li><a href="#">Page 3</a></li> 
+              </ul>
+          </div>
         </div>
-    </div>
-
+      </nav>
     <!-- Swiper -->
 
     <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper-container mySwiper">
@@ -202,6 +200,10 @@
 
     <!-- Swiper JS -->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">
+    </script>
+  
 
     <!-- Initialize Swiper -->
     <script>
