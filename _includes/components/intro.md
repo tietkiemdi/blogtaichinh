@@ -1,1 +1,0 @@
-Tôi là Nhữ. Tôi bắt đầu blog tietkiemdi.com vào năm 2021. Tại đây tôi chia sẻ những kinh nghiệm thực tế của tôi.
