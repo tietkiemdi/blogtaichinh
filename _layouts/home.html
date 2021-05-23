@@ -61,94 +61,64 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-inverse" style="margin-bottom: 0;">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#" style="font-size: 24px;">Tietkiemdi Blog</a>
-            </div>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <ul class="nav navbar-nav">
-
-                </ul>
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="#">Trang Chủ</a></li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Blog <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Kiếm tiền</a></li>
-                            <li><a href="#">Tiết kiệm</a></li>
-                            <li><a href="#">Đầu tư</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Tác Giả</a></li>
-                    <li><a href="#">Liên Hệ</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-
+    {% include header.html %}
 
     <!-- Swiper -->
-        <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper-container mySwiper">
-            <div class="parallax-bg" style="
+    <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper-container mySwiper">
+        <div class="parallax-bg" style="
           background-image: url(./theme/img/pexels-polina-kovaleva-5717479.jpg);
         " data-swiper-parallax="-23%"></div>
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="title" data-swiper-parallax="-300">Kiếm tiền</div>
-                    <div class="subtitle" data-swiper-parallax="-200">Subtitle</div>
-                    <div class="text" data-swiper-parallax="-100">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                            dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
-                            laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
-                            Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
-                            Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
-                            ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
-                            tincidunt ut libero. Aenean feugiat non eros quis feugiat.
-                        </p>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="title" data-swiper-parallax="-300">Tiết kiệm</div>
-                    <div class="subtitle" data-swiper-parallax="-200">Subtitle</div>
-                    <div class="text" data-swiper-parallax="-100">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                            dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
-                            laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
-                            Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
-                            Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
-                            ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
-                            tincidunt ut libero. Aenean feugiat non eros quis feugiat.
-                        </p>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="title" data-swiper-parallax="-300">Đầu tư</div>
-                    <div class="subtitle" data-swiper-parallax="-200">Subtitle</div>
-                    <div class="text" data-swiper-parallax="-100">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                            dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
-                            laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
-                            Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
-                            Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
-                            ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
-                            tincidunt ut libero. Aenean feugiat non eros quis feugiat.
-                        </p>
-                    </div>
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="title" data-swiper-parallax="-300">Kiếm tiền</div>
+                <div class="subtitle" data-swiper-parallax="-200">Subtitle</div>
+                <div class="text" data-swiper-parallax="-100">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
+                        dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
+                        laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
+                        Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
+                        Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
+                        ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
+                        tincidunt ut libero. Aenean feugiat non eros quis feugiat.
+                    </p>
                 </div>
             </div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-pagination"></div>
+            <div class="swiper-slide">
+                <div class="title" data-swiper-parallax="-300">Tiết kiệm</div>
+                <div class="subtitle" data-swiper-parallax="-200">Subtitle</div>
+                <div class="text" data-swiper-parallax="-100">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
+                        dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
+                        laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
+                        Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
+                        Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
+                        ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
+                        tincidunt ut libero. Aenean feugiat non eros quis feugiat.
+                    </p>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="title" data-swiper-parallax="-300">Đầu tư</div>
+                <div class="subtitle" data-swiper-parallax="-200">Subtitle</div>
+                <div class="text" data-swiper-parallax="-100">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
+                        dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
+                        laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
+                        Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
+                        Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
+                        ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
+                        tincidunt ut libero. Aenean feugiat non eros quis feugiat.
+                    </p>
+                </div>
+            </div>
         </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div>
 
     <div class="container">
         <div class="mainGrid">
@@ -195,21 +165,12 @@
             </ul>
         </nav>
 
-        <footer class="footer">
 
-            <p class="footer__text">Nguyen Nhu | All rights reserved</p>
-            <div class="footer__social">
-                <img src="assets/facebook.svg" alt="">
-                <img src="assets/instagram.svg" alt="">
-                <img src="assets/youtube.svg" alt="">
-                <img src="assets/twitter.svg" alt="">
-            </div>
-        </footer>
+
         <!--end Footer-->
-
+        {% include footer.html %}
     </div>
 
-    </div>
 
 
     <!-- Swiper JS -->
